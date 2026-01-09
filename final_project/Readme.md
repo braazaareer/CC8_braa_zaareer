@@ -126,5 +126,3 @@ This project was conducted in a controlled, simulated environment (CyberCamp8 Ca
 ---
 
 *Based on the CyberCamp8 Capstone Project Report by Braa Zaareer.*
-
-Would you like me to organize this into a slide deck outline for a presentation?
